@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kotlin Login-Register</string>
+
+    <string name="api">http://firdaus91.web.id/kotlin/</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="profile">Profile</string>
+
+    <string name="required_full_name">Full Name is required</string>
+    <string name="required_email">Email is required</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="required_password">Password is required</string>
+    <string name="password_length_error">Password must be 6 or more characters</string>
+    <string name="required_confirm_password">Confirm Password is required</string>
+    <string name="password_not_match">Password not match</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="hello">Hello</string>
+</resources>
